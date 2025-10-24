@@ -1,0 +1,10 @@
+/* set background color and base font for the whole page */
+body {
+    background: #bae4c2;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* style for header text using a cursive font */
+.header {
+    font-family: 'Pacifico', cursive;
+}
